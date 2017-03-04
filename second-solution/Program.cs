@@ -10,6 +10,7 @@ namespace second_solution
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HI How are you");
         }
     }
 }
